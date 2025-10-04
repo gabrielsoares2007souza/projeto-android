@@ -79,6 +79,7 @@ main{
     padding: 20px;
     margin: 0px auto 50px auto;
     box-shadow: 0px 0px 19px -6px black;
+    border-radius: 0px 0px 20px 20px ;
 }
 main img{
     width: 100%;
